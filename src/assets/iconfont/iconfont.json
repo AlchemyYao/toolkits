@@ -1,0 +1,44 @@
+{
+  "id": "3761389",
+  "name": "toolkit",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15838547",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "8332383",
+      "name": "Search",
+      "font_class": "Search",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "9769247",
+      "name": "config",
+      "font_class": "config1",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "10943872",
+      "name": "debug-16",
+      "font_class": "debug",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "12692969",
+      "name": "copy",
+      "font_class": "copy",
+      "unicode": "e816",
+      "unicode_decimal": 59414
+    }
+  ]
+}
